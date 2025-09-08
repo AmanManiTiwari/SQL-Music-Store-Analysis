@@ -22,7 +22,7 @@ SQL-Music-Store-Analysis/
 ├── Music_Store_Queries.sql     # Analytical SQL queries
 ├── MusicDatabaseSchema.png     # Database schema diagram
 └── README.md                   # Project documentation
-
+```
 ---
 
 ## ⚙️ Setup Instructions
