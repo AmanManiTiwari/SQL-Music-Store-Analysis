@@ -17,7 +17,7 @@ It simulates real-world business intelligence tasks like identifying top-selling
 ## 📂 Repository Structure
 
 SQL-Music-Store-Analysis/
-├── Music_Store_Database.sql # Database creation & sample data
+├── Music_Store_Database.sql # Database creation & sample data.
 ├── Music_Store_Queries.sql # Analytical SQL queries
 ├── MusicDatabaseSchema.png # Database schema diagram
 └── README.md # Project documentation
